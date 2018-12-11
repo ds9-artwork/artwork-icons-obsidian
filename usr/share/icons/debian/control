@@ -1,0 +1,11 @@
+Source: artwork-icons-obsidian
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: artwork-icons-obsidian
+Architecture: all
+Description: Obsidian icon theme
+  This package provides the obsidian icon theme
